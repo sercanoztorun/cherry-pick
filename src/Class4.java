@@ -4,4 +4,8 @@ public class Class4 {
 
         System.out.println("log silindi yerine bu log geldi.");
     }
+
+    public void funcA(){
+        System.out.println("A");
+    }
 }
