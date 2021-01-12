@@ -13,4 +13,7 @@ public class MergeBranch {
     public void d(){
         System.out.println("D");
     }
+    public void e(){
+        System.out.println("E");
+    }
 }
