@@ -5,4 +5,7 @@ public class MergeBranch {
     public void b(){
         System.out.println("B");
     }
+    public void c(){
+        System.out.println("C");
+    }
 }
